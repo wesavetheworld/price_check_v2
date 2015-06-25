@@ -1,0 +1,10 @@
+[14-Apr-2015 20:13:01 UTC] PHP Fatal error:  Using $this when not in object context in /home/swicksolution/public_html/testing/price_check/index.php on line 40
+[14-Apr-2015 20:26:30 UTC] PHP Fatal error:  Call to a member function environment() on a non-object in /home/swicksolution/public_html/testing/price_check/index.php on line 40
+[14-Apr-2015 20:26:56 UTC] PHP Fatal error:  Call to a member function environment() on a non-object in /home/swicksolution/public_html/testing/price_check/index.php on line 40
+[14-Apr-2015 20:37:10 UTC] PHP Fatal error:  Using $this when not in object context in /home/swicksolution/public_html/testing/price_check/index.php on line 46
+[14-Apr-2015 20:38:38 UTC] PHP Fatal error:  Using $this when not in object context in /home/swicksolution/public_html/testing/price_check/index.php on line 46
+[14-Apr-2015 20:38:43 UTC] PHP Fatal error:  Using $this when not in object context in /home/swicksolution/public_html/testing/price_check/index.php on line 52
+[14-Apr-2015 20:49:46 UTC] PHP Fatal error:  Class 'controllers\Search' not found in /home/swicksolution/public_html/testing/price_check/index.php on line 21
+[14-Apr-2015 20:50:33 UTC] PHP Fatal error:  Class 'controllers\Search' not found in /home/swicksolution/public_html/testing/price_check/index.php on line 21
+[14-Apr-2015 20:50:35 UTC] PHP Fatal error:  Class 'controllers\Search' not found in /home/swicksolution/public_html/testing/price_check/index.php on line 21
+[14-Apr-2015 20:50:51 UTC] PHP Fatal error:  Class 'controllers\search' not found in /home/swicksolution/public_html/testing/price_check/index.php on line 21
